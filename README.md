@@ -1,4 +1,3 @@
-:::writing{variant="document" id="58391"}
 <h1 align="center">
   👋 Привет, я Internetovskiy
 </h1>
