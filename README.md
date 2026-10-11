@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=200&section=header&text=Internetovskiy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Backend%20%7C%20DevOps&descSize=18&descAlignY=58" width="100%" />
+# Internetovskiy
 
-<a href="https://github.com/internetovskiy">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Создаю+сайты+и+веб-сервисы+с+нуля;Пишу+backend+и+API;Разворачиваю+проекты+на+своих+серверах;От+идеи+до+работающего+продукта" alt="Typing SVG" />
-</a>
+### Web · Backend · DevOps
+
+Создаю сайты и веб-сервисы с нуля: от интерфейса и API до деплоя на собственном сервере.
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=internetovskiy&label=Profile%20views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/internetovskiy?style=flat-square&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/internetovskiy?style=for-the-badge&color=0e75b6&labelColor=0f172a)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/internetovskiy&query=$.public_repos&label=Repos&style=for-the-badge&color=0e75b6&labelColor=0f172a)
+![Stars](https://img.shields.io/github/stars/internetovskiy?style=for-the-badge&color=0e75b6&labelColor=0f172a)
 
 </div>
 
@@ -17,9 +18,9 @@
 
 ## 👨‍💻 Обо мне
 
-Я full-stack разработчик с упором на **веб и backend**. Делаю сайты, личные кабинеты и API, а затем сам развёртываю их на Linux-серверах: Docker, Nginx, SSL, домены.
+Full-stack разработчик с упором на **веб и backend**. Делаю сайты, личные кабинеты и API, а затем сам развёртываю их на Linux-серверах: Docker, Nginx, SSL, домены.
 
-Мне важно, чтобы проект не просто запускался, а был быстрым, понятным и пригодным для реальной работы.
+Для меня важно, чтобы проект не просто запускался, а был быстрым, понятным и пригодным для реальной работы.
 
 <table>
 <tr>
@@ -37,7 +38,7 @@
 ### ⚙️ Backend
 - REST API на **FastAPI**
 - Личные кабинеты и авторизация
-- Работа с **MongoDB** и **SQLite**
+- **MongoDB** и **SQLite**
 - Интеграции с внешними сервисами
 
 </td>
@@ -49,7 +50,7 @@
 - Linux-серверы, **Docker Compose**
 - **Nginx**, SSL, PM2
 - Деплой и настройка доменов
-- Сети, VPN-инфраструктура (Xray, VLESS, Reality)
+- VPN-инфраструктура (Xray, VLESS, Reality)
 
 </td>
 <td width="50%" valign="top">
@@ -72,15 +73,27 @@
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,sqlite&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github&theme=dark" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -91,7 +104,7 @@
 ### 🏍️ Motoschool: сайт мотошколы
 Полноценный веб-проект от идеи до продакшена.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
@@ -115,25 +128,12 @@
 
 ---
 
-## 📊 GitHub-статистика
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=internetovskiy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&locale=ru" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=internetovskiy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&locale=ru" />
-
-<img src="https://streak-stats.demolab.com?user=internetovskiy&theme=tokyonight&hide_border=true&background=0f172a&locale=ru" />
-
-</div>
-
----
-
 ## 🎯 Сейчас изучаю
 
 - 🏗️ Backend-архитектуру и масштабируемые сервисы
 - 🔷 TypeScript и продвинутый Next.js
 - 🐍 Advanced Python
-- ⚙️ DevOps-практики: CI/CD, мониторинг, контейнеризация
+- ⚙️ DevOps: CI/CD, мониторинг, контейнеризация
 
 ---
 
@@ -145,6 +145,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=100&section=footer" width="100%" />
+[![GitHub](https://img.shields.io/badge/GitHub-internetovskiy-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/internetovskiy)
 
 </div>
