@@ -1,8 +1,6 @@
 <div align="center">
 
-# Internetovskiy
-
-### Web · Backend · DevOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=220&section=header&text=Internetovskiy&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Backend%20%7C%20DevOps&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
 Создаю сайты и веб-сервисы с нуля: от интерфейса и API до деплоя на собственном сервере.
 
@@ -148,3 +146,5 @@ Full-stack разработчик с упором на **веб и backend**. Д
 [![GitHub](https://img.shields.io/badge/GitHub-internetovskiy-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/internetovskiy)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" />
