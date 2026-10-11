@@ -1,174 +1,150 @@
-<h1 align="center">
-  👋 Привет, я Internetovskiy
-</h1>
+<div align="center">
 
-<h3 align="center">
-   Developer | Backend | Automation | DevOps
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=200&section=header&text=Internetovskiy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20%7C%20Backend%20%7C%20DevOps&descSize=18&descAlignY=58" width="100%" />
 
-<p align="center">
-  Создаю ботов, сервисы и инструменты, которые автоматизируют процессы и решают реальные задачи.
-</p>
+<a href="https://github.com/internetovskiy">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Создаю+сайты+и+веб-сервисы+с+нуля;Пишу+backend+и+API;Разворачиваю+проекты+на+своих+серверах;От+идеи+до+работающего+продукта" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=internetovskiy&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<br/>
 
----
+![Profile views](https://komarev.com/ghpvc/?username=internetovskiy&label=Profile%20views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/internetovskiy?style=flat-square&color=0e75b6)
 
-## 🚀 Обо мне
-
-Я разработчик, который любит создавать свои продукты и автоматизировать рутинные задачи.
-
-Основное направление — Python-разработка:
-- Telegram и Discord боты
-- Backend-сервисы
-- Автоматизация процессов
-- API интеграции
-- Работа с базами данных
-- Развёртывание проектов на Linux серверах
-
-Также интересуюсь инфраструктурой, DevOps и созданием полноценных сервисов от идеи до рабочего продукта.
+</div>
 
 ---
 
-## 🧑‍💻 Мой стек
+## 👨‍💻 Обо мне
 
-### Backend
+Я full-stack разработчик с упором на **веб и backend**. Делаю сайты, личные кабинеты и API, а затем сам развёртываю их на Linux-серверах: Docker, Nginx, SSL, домены.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Мне важно, чтобы проект не просто запускался, а был быстрым, понятным и пригодным для реальной работы.
 
-### Web
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Frontend
+- Сайты и лендинги на **Next.js**
+- Типизированный код на **TypeScript**
+- Адаптивная вёрстка (HTML5, CSS3)
+- SEO-friendly архитектура
 
-### Databases & Infrastructure
+</td>
+<td width="50%" valign="top">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 🔥 Чем занимаюсь
-
-### 🤖 Telegram / Discord разработка
-
-Создаю ботов и системы для сообществ:
-
-- Discord боты на Python
-- Telegram боты
-- Экономики и игровые механики
-- Системы профилей и статистики
-- Административные инструменты
+### ⚙️ Backend
+- REST API на **FastAPI**
+- Личные кабинеты и авторизация
+- Работа с **MongoDB** и **SQLite**
 - Интеграции с внешними сервисами
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Автоматизация
+### 🚢 DevOps
+- Linux-серверы, **Docker Compose**
+- **Nginx**, SSL, PM2
+- Деплой и настройка доменов
+- Сети, VPN-инфраструктура (Xray, VLESS, Reality)
 
-Люблю превращать ручные процессы в автоматические:
+</td>
+<td width="50%" valign="top">
 
-- парсинг данных
-- обработка информации
-- создание внутренних инструментов
-- автоматизация бизнеса
+### 🤖 Автоматизация
+- Telegram и Discord боты
+- Парсинг и обработка данных
+- Внутренние инструменты для бизнеса
+- Админ-панели и статистика
 
----
-
-### 🌐 Web & Backend
-
-Разрабатываю:
-
-- сайты на Next.js
-- backend API
-- личные кабинеты
-- сервисы с базами данных
-- полноценные веб-проекты
-
----
-
-### 🖥️ Серверы и инфраструктура
-
-Работаю с:
-
-- Linux серверами
-- Docker Compose
-- Nginx
-- PM2
-- SSL сертификатами
-- настройкой приложений
-- сетевыми технологиями
-
-Интересуюсь VPN-инфраструктурой, Xray, VLESS, Reality и построением собственных сервисов.
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Мои проекты
+## 🧰 Стек
 
-### 🤖 Discord / Telegram проекты
+<div align="center">
 
-Разрабатывал:
-- ботов с экономикой
-- системы событий
-- модерацию
-- игровые механики
-- интеграции с MongoDB
+**Backend**
 
-### 🏍️ Motoschool
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,sqlite&theme=dark" />
 
-Веб-проект мотошколы:
-- сайт на Next.js
-- каталог услуг
-- интеграции с Telegram
-- работа с сервером и доменом
+**Frontend**
 
-### 🌐 Собственные сервисы
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
 
-Создаю и развиваю собственные проекты:
-- веб-сервисы
-- автоматизированные системы
-- инфраструктурные решения
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github&theme=dark" />
+
+</div>
 
 ---
 
-## 📊 GitHub статистика
+## 🚀 Проекты
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=internetovskiy&show_icons=true&theme=dark&locale=ru" />
-</p>
+### 🏍️ Motoschool: сайт мотошколы
+Полноценный веб-проект от идеи до продакшена.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=internetovskiy&layout=compact&theme=dark&locale=ru" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=internetovskiy&theme=dark&locale=ru" />
-</p>
+- Каталог услуг и современный адаптивный интерфейс
+- Интеграция с Telegram для заявок
+- Настройка сервера, домена и SSL
+
+### 🌐 Собственные веб-сервисы
+Разрабатываю и поддерживаю свои проекты: веб-сервисы с базами данных, личными кабинетами и автоматизированной инфраструктурой.
+
+<details>
+<summary><b>🤖 Боты и автоматизация (развернуть)</b></summary>
+<br/>
+
+- Discord-боты с экономикой, событиями и модерацией
+- Игровые механики, профили и статистика игроков
+- Интеграции с MongoDB
+- Telegram-боты и админ-инструменты
+
+</details>
+
+---
+
+## 📊 GitHub-статистика
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=internetovskiy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&locale=ru" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=internetovskiy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&locale=ru" />
+
+<img src="https://streak-stats.demolab.com?user=internetovskiy&theme=tokyonight&hide_border=true&background=0f172a&locale=ru" />
+
+</div>
 
 ---
 
 ## 🎯 Сейчас изучаю
 
-- Advanced Python
-- Backend архитектуру
-- TypeScript
-- DevOps практики
-- Создание масштабируемых сервисов
+- 🏗️ Backend-архитектуру и масштабируемые сервисы
+- 🔷 TypeScript и продвинутый Next.js
+- 🐍 Advanced Python
+- ⚙️ DevOps-практики: CI/CD, мониторинг, контейнеризация
 
 ---
 
-## 💡 Мой подход
+## 💡 Подход
 
 > Код должен не просто работать. Он должен решать проблему.
 
-Мне интересно создавать проекты, которыми реально пользуются люди, и постоянно улучшать свои навыки через практику.
+Мне интересно делать проекты, которыми реально пользуются люди, и расти через практику.
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=100&section=footer" width="100%" />
+
+</div>
